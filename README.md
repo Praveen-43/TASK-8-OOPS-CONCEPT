@@ -1,2 +1,3 @@
-# TASK-8-OOPS-CONCEPT
-OOPS concept based tasks
+# Day-8-Zen-Task
+
+JS DAY 8 TASK from OOPS concept
